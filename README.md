@@ -1,0 +1,1 @@
+# LegalMind-A-RAG-Powered-Legal-Document-Analysis-Assistant
